@@ -176,7 +176,7 @@ This is a **basic scraper** with several important limitations:
 
 **For production use cases, bypassing rate limits, accessing analytics, removing watermarks, or building commercial applications**, we recommend using a professional API solution:
 
-👉 **[Instaboost TikTok Tools](https://instaboost.ge)** – Enterprise-grade TikTok API with:
+👉 **[Instaboost TikTok Tools](https://instaboost.ge/en/tiktok)** – Enterprise-grade TikTok API with:
 - ✅ Unlimited rate limits
 - ✅ Video download without watermarks
 - ✅ Full analytics (likes, shares, comments, views)
@@ -212,7 +212,7 @@ This tool is for **educational purposes only**. Scraping TikTok may violate thei
 
 - 🐛 **Found a bug?** [Open an issue](../../issues)
 - 💡 **Have a suggestion?** [Start a discussion](../../discussions)
-- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge)
+- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge/en)
 
 ---
 
