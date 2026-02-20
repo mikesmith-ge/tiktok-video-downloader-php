@@ -11,10 +11,8 @@
 **TikTokDownloader** is a simple, open-source PHP tool that extracts videos from public TikTok posts by parsing Open Graph meta tags. Perfect for educational purposes, prototypes, or small-scale projects.
 
 **Part of the Instaboost Tools collection:**
-- [Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)
-- [Instagram Downloader (Python)](https://github.com/mikesmith-ge/instagram-media-downloader-python)
 - **TikTok Downloader (PHP)** (you are here)
-- [TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs) - Coming soon!
+- [TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)
 
 ## ✨ Features
 
@@ -194,6 +192,9 @@ Looking for other social media tools?
 - **[Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Extract Instagram media
 - **[Instagram Downloader (Python)](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Python version
 - **[TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)** – JavaScript/Node.js version
+- **[YouTube Shorts Downloader (Python)](https://github.com/mikesmith-ge/youtube-shorts-downloader-python)** – Download YouTube Shorts
+- **[YouTube Shorts Downloader (PHP)](https://github.com/mikesmith-ge/youtube-shorts-downloader-php)** – YouTube in PHP
+- **[YouTube Shorts Downloader (Node.js)](https://github.com/mikesmith-ge/youtube-shorts-downloader-nodejs)** – YouTube in JavaScript
 - More tools coming soon!
 
 ## 📄 License
